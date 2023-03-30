@@ -1,1 +1,2 @@
-# adivinador
+# adivinador 
+Código compilado en python
