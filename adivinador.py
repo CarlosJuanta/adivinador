@@ -172,6 +172,6 @@ def load_pickle(file):
 
 
 if __name__ == '__main__':
-    print("BIENVENIDO AL ADIVINADOR DE CIUDADES")
+    print("WELCOME TO CITIES GUSSER")
     print("SE LO QUE PIENSAS")
     jugar()
