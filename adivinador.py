@@ -173,5 +173,5 @@ def load_pickle(file):
 
 if __name__ == '__main__':
     print("WELCOME TO CITIES GUSSER")
-    print("I know what you think")
+    print("I will guess the city you are thinking of.")
     jugar()
